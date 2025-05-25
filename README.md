@@ -2,7 +2,7 @@
 
 This project contains shell scripts to install SVP (SmoothVideo Project) and SMPlayer and if wanted, Jellyfin Media Player on Fedora-based distributions with SVP-support. They will not work on Debian-based, Arch-based or other operating systems.
 
-The scripts were last tested by me on March 31st 2025 on a fresh install on Nobara (Fedora-based distribution).
+The scripts were last tested by me on May 25th 2025 on a fresh install on Nobara 42 (Fedora-based distribution).
 
 ## What the scripts do?
 
