@@ -71,6 +71,10 @@ If you decided to install the Jellyfin Media Player and the prior steps have suc
 
 As I do not have the capacity to test on more distributions and I am not as talented in coding, pull requests and posting issues are highly appreciated! Please post your potential improvements! Thank you!
 
+### Known issues
+
+* GPU acceleration is not available, SVP is running on CPU-only
+
 ## Changelog
 
 ### Ubuntu-based
